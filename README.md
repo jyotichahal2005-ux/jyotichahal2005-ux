@@ -1,9 +1,3 @@
-<div align="center">
-
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Jyoti%20Chahal&fontSize=45&fontColor=ffffff&desc=AI%20%26%20Web%20Projects%20Builder&descSize=16)
-
-</div>
-
 ## 👋 Hi, I'm Jyoti
 
 I am a graduate (BA, Kurukshetra University) who builds websites, AI chatbots and automation agents. I learn by building real projects and putting them online for everyone to use.
