@@ -47,7 +47,8 @@ I am not trying to be perfect. I am trying to get a little better with every pro
 <tr>
 <td width="50%" valign="top">
 
-<img src="girls-gurukul.png" alt="The Girls Gurukul" width="100%">
+<<img width="1313" height="600" alt="girls gurukul" src="https://github.com/user-attachments/assets/9a1d49d3-b413-42f4-b734-9e81787c620c" />
+>
 
 ### 🎓 The Girls Gurukul
 A fully responsive school website for The Girls Gurukul, Kaithal, with modern design and AI-generated imagery.
@@ -59,7 +60,8 @@ A fully responsive school website for The Girls Gurukul, Kaithal, with modern de
 </td>
 <td width="50%" valign="top">
 
-<img src="pinsaver.png" alt="PinSaver" width="100%">
+<<img width="1277" height="604" alt="pinterest video " src="https://github.com/user-attachments/assets/15505984-4f45-465c-81e5-cca98ba256a7" />
+>
 
 ### 📥 PinSaver
 A free website to download Pinterest videos in HD (480p, 720p, 1080p). Paste a public link, no login needed. Includes blog, FAQ and SEO pages.
@@ -73,7 +75,8 @@ A free website to download Pinterest videos in HD (480p, 720p, 1080p). Paste a p
 <tr>
 <td width="50%" valign="top">
 
-<img src="zedking.png" alt="Zedking Assistant" width="100%">
+<<img width="1273" height="573" alt="chatbot" src="https://github.com/user-attachments/assets/57862a08-8a74-4f85-8931-418e98279d4d" />
+>
 
 ### 🤖 Zedking Assistant
 A bilingual (Hindi + English) AI chatbot that answers student questions about courses, fees, admission, timings and location of Zed-King Group of Institute, Kaithal.
@@ -85,7 +88,8 @@ A bilingual (Hindi + English) AI chatbot that answers student questions about co
 </td>
 <td width="50%" valign="top">
 
-<img src="blogger-agent.png" alt="PinSaver Blogger Agent" width="100%">
+<<img width="1339" height="590" alt="agent" src="https://github.com/user-attachments/assets/3fc19214-d332-4312-8ad2-5ed134e504fe" />
+>
 
 ### 📌 PinSaver Blogger Agent
 An automatic blogging agent. Every day it picks a topic, writes an SEO article with Groq AI and publishes it to Blogger. Runs on GitHub Actions.
@@ -98,29 +102,6 @@ An automatic blogging agent. Every day it picks a topic, writes an SEO article w
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🎙️ AI Voice Agent
-An AI voice agent that talks and answers by voice.
-
-**Tech:** `AI` `Voice`
-
-[💻 Code](https://github.com/jyotichahal2005-ux/AI-Voice-Agent)
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Telegram AI News Bot
-A Telegram bot that posts AI news updates automatically.
-
-**Tech:** `Telegram Bot` `Automation`
-
-[💻 Code](https://github.com/jyotichahal2005-ux/telegram-ai-news-bot)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech & Tools
 
