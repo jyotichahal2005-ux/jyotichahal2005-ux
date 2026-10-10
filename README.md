@@ -45,17 +45,21 @@ I am not trying to be perfect. I am trying to get a little better with every pro
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="girls-gurukul.png" alt="The Girls Gurukul" width="100%">
 
 ### 🎓 The Girls Gurukul
-A fully responsive school website with modern design and AI-generated imagery.
+A fully responsive school website for The Girls Gurukul, Kaithal, with modern design and AI-generated imagery.
 
 **Tech:** `TypeScript` `Vercel`
 
 [🔗 Live Demo](https://thegirlsgurukul-girls-gurukul-9v14.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="pinsaver.png" alt="PinSaver" width="100%">
 
 ### 📥 PinSaver
 A free website to download Pinterest videos in HD (480p, 720p, 1080p). Paste a public link, no login needed. Includes blog, FAQ and SEO pages.
@@ -67,7 +71,9 @@ A free website to download Pinterest videos in HD (480p, 720p, 1080p). Paste a p
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="zedking.png" alt="Zedking Assistant" width="100%">
 
 ### 🤖 Zedking Assistant
 A bilingual (Hindi + English) AI chatbot that answers student questions about courses, fees, admission, timings and location of Zed-King Group of Institute, Kaithal.
@@ -77,7 +83,9 @@ A bilingual (Hindi + English) AI chatbot that answers student questions about co
 [🔗 Live Demo](https://zedking-assistant-sooty.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="blogger-agent.png" alt="PinSaver Blogger Agent" width="100%">
 
 ### 📌 PinSaver Blogger Agent
 An automatic blogging agent. Every day it picks a topic, writes an SEO article with Groq AI and publishes it to Blogger. Runs on GitHub Actions.
@@ -89,7 +97,7 @@ An automatic blogging agent. Every day it picks a topic, writes an SEO article w
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎙️ AI Voice Agent
 An AI voice agent that talks and answers by voice.
@@ -99,7 +107,7 @@ An AI voice agent that talks and answers by voice.
 [💻 Code](https://github.com/jyotichahal2005-ux/AI-Voice-Agent)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📰 Telegram AI News Bot
 A Telegram bot that posts AI news updates automatically.
