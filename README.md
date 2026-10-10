@@ -111,7 +111,7 @@ I am building more AI and web projects and publishing them on GitHub, each with 
 **Fresher.** I am just starting my career, and my experience comes from the projects I build. Every project here is something I built and put online. I am looking for opportunities in AI, web and automation.
 
 ---
-
+<hr>
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chahal-934537397)
