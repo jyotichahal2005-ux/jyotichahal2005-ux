@@ -1,9 +1,3 @@
-<div align="center">
-
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Jyoti%20Chahal&fontSize=45&fontColor=ffffff&desc=AI%20%26%20Web%20Projects%20Builder&descSize=16)
-
-</div>
-
 ## 👋 Hi, I'm Jyoti
 
 I am a graduate (BA, Kurukshetra University) who builds websites, AI chatbots and automation agents. I learn by building real projects and putting them online for everyone to use.
@@ -99,42 +93,6 @@ An automatic blogging agent. Every day it picks a topic, writes an SEO article w
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ AI Voice Agent
-An AI voice agent that talks and answers by voice.
-
-**Tech:** `AI` `Voice`
-
-[💻 Code](https://github.com/jyotichahal2005-ux/AI-Voice-Agent)
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Telegram AI News Bot
-A Telegram bot that posts AI news updates automatically.
-
-**Tech:** `Telegram Bot` `Automation`
-
-[💻 Code](https://github.com/jyotichahal2005-ux/telegram-ai-news-bot)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech & Tools
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ## 🎯 What I'm Doing Right Now
 
 I am building more AI and web projects and publishing them on GitHub, each with a proper README.
@@ -153,8 +111,4 @@ I am building more AI and web projects and publishing them on GitHub, each with 
 
 **Build. Learn. Ship. 🚀**
 
-<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=100&section=footer)
-
-</div>
