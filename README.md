@@ -1,15 +1,24 @@
-
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Jyoti%20Chahal&fontSize=45&fontColor=ffffff&desc=Aapki%20Tagline%20Yahan%20Likho&descSize=16)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Jyoti%20Chahal&fontSize=45&fontColor=ffffff&desc=AI%20%26%20Web%20Projects%20Builder&descSize=16)
 
 </div>
 
 ## 👋 Hi, I'm Jyoti
 
-Main [apni padhai/college ka naam] ki student hoon, [apne shehar ka naam] se. Main [websites / apps / AI tools] banati hoon aur har project se kuch naya seekhti hoon.
+I am a graduate (BA, Kurukshetra University) who builds websites, AI chatbots and automation agents. I learn by building real projects and putting them online for everyone to use.
 
-Mera goal hai aise projects banana jo logon ke kaam aayein. Main perfect banne ki koshish nahi karti, bas har project ke saath thodi behtar ho rahi hoon.
+I am not trying to be perfect. I am trying to get a little better with every project I ship.
+
+---
+
+## 🎓 Education
+
+| Level | Details |
+|---|---|
+| **Graduation** | Bachelor of Arts (BA), Kurukshetra University |
+| **12th** | Non-Medical, HBSE (Haryana Board) |
+| **10th** | HBSE (Haryana Board) |
 
 ---
 
@@ -17,25 +26,18 @@ Mera goal hai aise projects banana jo logon ke kaam aayein. Main perfect banne k
 
 | | |
 |---|---|
-| 🌐 **Web Development** | Websites banana |
-| 🤖 **AI Tools** | AI ki madad se projects banana |
-| 📈 **Digital Marketing** | Seekh rahi hoon aur apne projects pe use karti hoon |
+| 🌐 **Website Building** | Responsive websites that are live and usable |
+| 🤖 **AI Chatbots & Agents** | Chatbots and agents that answer questions and automate work |
+| ⚙️ **Automation** | Bots and scheduled agents that run on their own |
+| 🔍 **SEO** | Making websites and blog content easier to find |
 
 ---
 
 ## 🧭 How I Work
 
-- **I learn by building.** Ek idea leti hoon, banana shuru karti hoon, aur jo chahiye wo seekhti jaati hoon.
-- **I start simple and improve.** Pehle chalta hua version, phir behtar design aur features.
-- **I share my work publicly.** Apne projects GitHub pe daalti hoon aur unhe improve karti rehti hoon.
-
----
-
-## 🔨 What I've Built
-
-- 🏫 Project 1 ek line me
-- 🧮 Project 2 ek line me
-- 🤖 Project 3 ek line me
+- **I learn by building.** I pick a real idea, start making it, and learn what I need along the way.
+- **I start simple and improve.** First a working version, then better design and features.
+- **I share my work publicly.** My projects are on GitHub and many are live online.
 
 ---
 
@@ -45,44 +47,66 @@ Mera goal hai aise projects banana jo logon ke kaam aayein. Main perfect banne k
 <tr>
 <td width="50%">
 
-### 🏫 Project 1 Ka Naam
-Ye project kya karta hai, 2-3 line me likho.
+### 🎓 The Girls Gurukul
+A fully responsive school website with modern design and AI-generated imagery.
 
-**Tech:** `React` `Node.js`
+**Tech:** `TypeScript` `Vercel`
 
-[🔗 Live Demo](https://your-live-link.com) • [💻 Code](https://github.com/jyotichahal2005-ux/repo-name-1)
+[🔗 Live Demo](https://thegirlsgurukul-girls-gurukul-9v14.vercel.app/)
 
 </td>
 <td width="50%">
 
-### 🧮 Project 2 Ka Naam
-Ye project kya karta hai, 2-3 line me likho.
+### 📥 PinSaver
+A free website to download Pinterest videos in HD (480p, 720p, 1080p). Paste a public link, no login needed. Includes blog, FAQ and SEO pages.
 
-**Tech:** `Python` `Flask`
+**Tech:** `Web App` `SEO` `Render`
 
-[🔗 Live Demo](https://your-live-link.com) • [💻 Code](https://github.com/jyotichahal2005-ux/repo-name-2)
+[🔗 Live Demo](https://pinterest-video-downloader-69a6.onrender.com) • [💻 Code](https://github.com/jyotichahal2005-ux/pinterest-video-downloader)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 Project 3 Ka Naam
-Ye project kya karta hai, 2-3 line me likho.
+### 🤖 Zedking Assistant
+A bilingual (Hindi + English) AI chatbot that answers student questions about courses, fees, admission, timings and location of Zed-King Group of Institute, Kaithal.
 
-**Tech:** `JavaScript` `HTML` `CSS`
+**Tech:** `AI Chatbot` `Vercel`
 
-[💻 Code](https://github.com/jyotichahal2005-ux/repo-name-3)
+[🔗 Live Demo](https://zedking-assistant-sooty.vercel.app/)
 
 </td>
 <td width="50%">
 
-### 🎮 Project 4 Ka Naam
-Ye project kya karta hai, 2-3 line me likho.
+### 📌 PinSaver Blogger Agent
+An automatic blogging agent. Every day it picks a topic, writes an SEO article with Groq AI and publishes it to Blogger. Runs on GitHub Actions.
 
-**Tech:** `Python`
+**Tech:** `Node.js` `Groq AI` `Blogger API` `GitHub Actions`
 
-[💻 Code](https://github.com/jyotichahal2005-ux/repo-name-4)
+[💻 Code](https://github.com/jyotichahal2005-ux/pinsaver-blogger-agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎙️ AI Voice Agent
+An AI voice agent that talks and answers by voice.
+
+**Tech:** `AI` `Voice`
+
+[💻 Code](https://github.com/jyotichahal2005-ux/AI-Voice-Agent)
+
+</td>
+<td width="50%">
+
+### 📰 Telegram AI News Bot
+A Telegram bot that posts AI news updates automatically.
+
+**Tech:** `Telegram Bot` `Automation`
+
+[💻 Code](https://github.com/jyotichahal2005-ux/telegram-ai-news-bot)
 
 </td>
 </tr>
@@ -92,11 +116,12 @@ Ye project kya karta hai, 2-3 line me likho.
 
 ## 🛠️ Tech & Tools
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -104,13 +129,13 @@ Ye project kya karta hai, 2-3 line me likho.
 
 ## 🎯 What I'm Doing Right Now
 
-Main naye projects bana rahi hoon aur unhe GitHub pe daal rahi hoon. Saath me [jo bhi seekh rahi ho, jaise Digital Marketing / React] seekh rahi hoon.
+I am building more AI and web projects and publishing them on GitHub, each with a proper README.
 
 ---
 
 ## 💼 Experience
 
-**Fresher.** Main abhi career shuru kar rahi hoon, aur mera experience mere banaye projects se aata hai. Main [AI / web / digital marketing] me opportunities dhundh rahi hoon.
+**Fresher.** I am just starting my career, and my experience comes from the projects I build. Every project here is something I built and put online. I am looking for opportunities in AI, web and automation.
 
 ---
 
@@ -126,17 +151,3 @@ Main naye projects bana rahi hoon aur unhe GitHub pe daal rahi hoon. Saath me [j
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=100&section=footer)
 
 </div>
-<!--
-**jyotichahal2005-ux/jyotichahal2005-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
