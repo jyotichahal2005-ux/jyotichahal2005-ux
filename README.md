@@ -90,40 +90,7 @@ An automatic blogging agent. Every day it picks a topic, writes an SEO article w
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<td width="50%" valign="top">
-
-### 🎙️ AI Voice Agent
-An AI voice agent that talks and answers by voice.
-
-**Tech:** `AI` `Voice`
-
-[💻 Code](https://github.com/jyotichahal2005-ux/AI-Voice-Agent)
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Telegram AI News Bot
-A Telegram bot that posts AI news updates automatically.
-
-**Tech:** `Telegram Bot` `Automation`
-
-[💻 Code](https://github.com/jyotichahal2005-ux/telegram-ai-news-bot)
-
-</td>
-</tr>
 </table>
-
----
-
-## 🛠️ Tech & Tools
-
-
-
-
-
 
 ---
 
