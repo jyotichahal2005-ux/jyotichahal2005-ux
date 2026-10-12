@@ -109,6 +109,7 @@ I am building more AI and web projects and publishing them on GitHub, each with 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-chahal-934537397)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotichahal2005@gmail.com)
 
 **Build. Learn. Ship. 🚀**
 
