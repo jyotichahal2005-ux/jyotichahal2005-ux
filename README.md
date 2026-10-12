@@ -90,12 +90,11 @@ An automatic blogging agent. Every day it picks a topic, writes an SEO article w
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<img src="BUBBLE-SHOOTER-IMAGE-LINK" alt="Neon Bubble Shooter" width="100%" />
-
+<img src= <img width="512" height="564" alt="bubble" src="https://github.com/user-attachments/assets/cc4f4c1b-058d-4862-9c88-724e7a857daa" />
+ 
 ### 🎮 Neon Bubble Shooter
 A neon-themed bubble shooter game. Aim, shoot and match bubbles to clear the board.
 
@@ -106,8 +105,7 @@ A neon-themed bubble shooter game. Aim, shoot and match bubbles to clear the boa
 </td>
 <td width="50%" valign="top">
 
-<img src="NEON-RUN-IMAGE-LINK" alt="Neon Run 3D" width="100%" />
-
+<img src=<img width="342" height="452" alt="suffer" src="https://github.com/user-attachments/assets/9e11b7fa-6c3f-45a1-8aff-463a9045092f" />
 ### 🏃 Neon Run 3D
 A fast-paced 3D neon running game. Dodge obstacles and keep running as far as you can.
 
