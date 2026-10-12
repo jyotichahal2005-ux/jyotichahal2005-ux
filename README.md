@@ -90,6 +90,33 @@ An automatic blogging agent. Every day it picks a topic, writes an SEO article w
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="BUBBLE-SHOOTER-IMAGE-LINK" alt="Neon Bubble Shooter" width="100%" />
+
+### 🎮 Neon Bubble Shooter
+A neon-themed bubble shooter game. Aim, shoot and match bubbles to clear the board.
+
+**Tech:** `Google AI Studio` `Game`
+
+[🔗 Play Now](https://neon-bubble-shooter.ai.studio/)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="NEON-RUN-IMAGE-LINK" alt="Neon Run 3D" width="100%" />
+
+### 🏃 Neon Run 3D
+A fast-paced 3D neon running game. Dodge obstacles and keep running as far as you can.
+
+**Tech:** `Google AI Studio` `3D` `Game`
+
+[🔗 Play Now](https://remix-neon-run-3d-1016.ai.studio/)
+
+</td>
+</tr>
 </table>
 
 ---
